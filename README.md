@@ -20,3 +20,15 @@ this cheat is used for glithes AND CHEAT GAMES SERVERS
 # Server Address
 - set address 1.25 1.5 
  
+# ScreenShot
+![Capture](https://user-images.githubusercontent.com/87994837/127378312-bc39ae4b-d41c-4356-9b29-6acd28c39be1.PNG)
+
+# Create Hack and test
+Create Your own hack 
+ - First Open Cheat engine
+ - then type 1.25 between where its said hex then click first scan then type 1.5 then click next scan 
+ - then click custom then click game then set 1.25 then ty then set to 1.5 then ty
+
+Enjoy:)
+ 
+
