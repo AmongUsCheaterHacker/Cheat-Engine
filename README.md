@@ -29,6 +29,9 @@ Create Your own hack
  - then type 1.25 between where its said hex then click first scan then type 1.5 then click next scan 
  - then click custom then click game then set 1.25 then ty then set to 1.5 then ty
 
+# TUTORIAL
+If you still don't understand go to here https://youtu.be/ER8x2KDj_70 to see what that means the whole time i was talking About
+
 Enjoy:)
  
 
